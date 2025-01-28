@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-**Tharun7075/Tharun7075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently pursuing masters degree from Northwest Missouri State University...
 - 🌱 I’m currently learning Advanced database systems and optimization techniques ...
 - 📫 You can reach me via email - tharunguda7@gmail.com ...
